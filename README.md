@@ -1,4 +1,6 @@
-# :wave: The Basics of GitHub 
+**Author:** Syed Aslam Sheik Dawood
+
+# :wave: The Basics of GitHub
 
 ## 🤓 Course overview and learning outcomes 
 
