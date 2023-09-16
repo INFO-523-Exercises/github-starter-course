@@ -1,4 +1,5 @@
 # :wave: The Basics of GitHub 
+# Author: Kashyap Sai Prasad Nadendla
 
 ## 🤓 Course overview and learning outcomes 
 
