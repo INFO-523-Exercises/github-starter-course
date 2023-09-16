@@ -1,6 +1,6 @@
 
 
-# 👋 Github Starter Course :collision:
+# :collision: Github Starter Course :collision:
 Author: Partha Koundinya Panguluri (partha-pkp) 👨‍💻 
 
 <br>
